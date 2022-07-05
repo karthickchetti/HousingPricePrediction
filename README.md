@@ -24,8 +24,9 @@
 2. GrLivArea
 3. Neighbourhood
 4. YearBuilt   
-5. MsSubClass        
-6. BsmtQual        
+5. GarageCars
+6. MsSubClass        
+7. BsmtQual       
 
 ## Technologies Used
 - Pandas - version 1.3.4
